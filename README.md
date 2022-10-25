@@ -16,4 +16,4 @@ npm install
 npm run start
 ```
 
-5. Now that the server is running, open `http://127.0.0.1:8000` on your browser to view and interact with the application.
+5. Now that the server is running, open `http://127.0.0.1:8000` on your browser to view and interact with the application. On making any changes to the actual front-end of the app (located within the /public folder), you would need to refresh your browser to view the latest version of the app on your browser.
